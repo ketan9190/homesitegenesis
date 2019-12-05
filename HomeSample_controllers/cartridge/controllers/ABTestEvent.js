@@ -1,5 +1,5 @@
 'use strict';
-try
+
 /**
  * Controller that reports to the Salesforce Commerce Cloud A/B test engine when a customer starts
  * checkout in the storefront. This event is recorded only for the purposes of updating A/B test statistics and
